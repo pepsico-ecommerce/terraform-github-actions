@@ -1,0 +1,27 @@
+### DOC
+# https://docs.github.com/en/github/creating-cloning-and-archiving-repositories/about-code-owners
+
+
+### Default reviewers
+* @pepsico-ecommerce/infra-pr-review
+
+#### Project specific #####
+
+### DPI
+#/terraform/environments/staging-cdp/ @trevorPep @fadeev2010 @bharrispepsico
+#/terraform/environments/production-cdp/ @trevorPep @fadeev2010 @bharrispepsico
+
+### Airflow Data Engineering
+#/terraform/environments/production-de/ @fadeev2010 @trevorPep
+#/terraform/environments/staging-de/ @fadeev2010 @trevorPep
+
+### Simple Machine
+#/terraform/environments/production-druid/ @trevorPep @alexzpep
+#/terraform/environments/staging-druid/ @trevorPep @alexzpep
+
+### PEPDirect
+#/terraform/environments/production-wellspace/ @fadeev2010 @brianpep @vrumiantsev
+
+### Mealsolutions
+#/terraform/environments/production-mealsolutions/ @bakhtin
+#/terraform/environments/staging-mealsolutions/ @bakhtin
